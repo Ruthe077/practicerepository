@@ -58,7 +58,7 @@ function changeCity(event) {
 let form = document.querySelector("form");
 form.addEventListener("submit", changeCity);
 
-
+//trying to update so i can push on github
 //temperature based off of location
 
 function showCoordinates(position) {
